@@ -1,0 +1,84 @@
+<mjml>
+   <mj-head>
+      <mj-title>Cometeer Transactional Email</mj-title>
+   </mj-head>
+
+   <mj-body background-color="#b4b4b4">
+<!-- Start Content -->
+      <mj-section padding="0" background-color="#000000">
+         <mj-column padding-top="5px" padding-bottom="5px">
+            <mj-text font-size="10px" align="center" letter-spacing="0px" font-family="bicyclette,sans-serif">
+               <a href="#" style="color:#727272; text-decoration:none;">Can't see this emal?</a> &nbsp &nbsp <a href="#"style="color:#f5d577;">View in Your Browser</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f5d577" padding="0">
+         <mj-column padding-top="5px" padding-bottom="5px">
+            <mj-text  color="#181818" font-size="12px" align="center" letter-spacing="0px" font-family="bicyclette,sans-serif" >
+               FREE 2-DAY SHIPPING ON YOUR FIRST ORDER 
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Logo section -->
+      <mj-section padding="0">
+         <mj-column>
+            <mj-image src="https://i.ibb.co/ZVJ8mfP/logo.png" alt="cometeer logo" padding="0" />
+         </mj-column>
+      </mj-section>
+
+      <!-- Wake up and smell coffee -->
+      <mj-section padding="0">
+         <mj-column>
+            <mj-image href="www.example.com" src="https://i.ibb.co/dGgLH2n/banner.jpg" alt="wake up and smell the free coffee" padding="0" />
+         </mj-column>
+      </mj-section>
+
+      <!-- Main-text -->
+      <mj-section background-color="#000000">
+         <mj-column padding="20px">
+            <mj-text font-size="14px" line-height="20px" font-family="bicyclette, sans-serif" align="center" color="#f3f5e8">
+               Perfectly roasted and precision-brewed, our coffee is just what  you need to jumpstart your morning. <br> <br>
+               Order today and get 25% off your first two orders. Don't miss out!
+            </mj-text>
+            <mj-button  align="center" padding-top="25px" padding-bottom="2px" inner-padding="9px 50px" color="#f3f5e8" background-color="#000000" border="2px solid #f3f5e8" font-family="Arial" letter-spacing="3px">
+               SCORE 25% OFF
+            </mj-button>
+            <mj-text align="center" font-size="12px" line-height="20px" font-family="bicyclette, sans-serif" color="#f3f5e8" padding-top="0">
+               *No code needed. Discount automatically applied at checkout.
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- three-column-section -->
+      <mj-section padding="0">
+         <mj-column>
+            <mj-image src="https://i.ibb.co/rM1537J/three-images.png" alt="barista quality, sustainably sourced, no equipment needed" padding="0" />
+         </mj-column>
+      </mj-section>
+
+      <!-- Footer -->
+      <mj-section background-color="#000000">
+         <mj-column>
+            <mj-text align="center">
+               <img src="https://i.ibb.co/VvGz8ZZ/fb.png" alt="facebook" href="www.example.com" width="35px">
+               <img src="https://i.ibb.co/X56nC57/instagram.png" alt="instagram" href="www.example.com" width="35px">
+               <img src="https://i.ibb.co/RYfyCm2/twitter.png" alt="twitter" href="www.example.com" width="35px">
+               <img src="https://i.ibb.co/2spxRvv/spotify.png" alt="spotify" href="www.example.com" width="35px">
+              
+            </mj-text>
+            <mj-text font-size="12px" font-family="Arial" align="center" color="#f3f5e8">
+               2022 Cometeer Inc., <br> <br>
+               All Rights Reserved
+            </mj-text>
+            <mj-text font-size="12px" font-family="Arial" align="center" color="#f3f5e8">
+               21 Great Republic Dr Gloucseter, MA 01930 <br> <br>
+
+               <a href="#" style="color:#f5d577; text-decoration:underline;">Unsubscribe</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+   </mj-body>
+<!-- End Content -->
+</mjml>
